@@ -1,0 +1,1 @@
+﻿public enum direction{ none, up, down, left, right }

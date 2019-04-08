@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: level_maker_background
+    uniqueID: 3104194193
+    locked: 0
+  - name: tile_background
+    uniqueID: 44847547
+    locked: 0
+  - name: player
+    uniqueID: 3101645431
+    locked: 0
+  - name: tile_foreground
+    uniqueID: 2730201305
+    locked: 0
+  - name: level_maker_foreground
+    uniqueID: 371630111
+    locked: 0

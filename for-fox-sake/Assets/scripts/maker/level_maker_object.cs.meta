@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ab499e5c4c0ca504ebc62b2981259a0c
+timeCreated: 1474507363
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sprite_foreground: {fileID: 21300000, guid: 4684b2855655d984f85b75659cde7259,
+      type: 3}
+  - sprite_background: {fileID: 21300000, guid: 2dc0e32711ee25545a9e9905c32eddb6,
+      type: 3}
+  - tile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
